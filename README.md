@@ -1,5 +1,5 @@
 # projet-traiteur
-#  Projet Traiteur – Site Web Complet (MVC)
+#  Projet Traiteur – Site Web Complet
 
 Projet réalisé dans le cadre de ma formation Développeur Web Full Stack.  
 Ce site propose un système complet de gestion de menus, commandes, utilisateurs et administration.
@@ -43,16 +43,4 @@ Ce site propose un système complet de gestion de menus, commandes, utilisateurs
 - Vérification des rôles (admin / user)
 - Protection des routes
 
-##  Installation
-1. Cloner le projet  
-2. Importer la base de données  
-3. Configurer le fichier `.env`  
-4. Lancer le serveur local
-
-##  Technologies utilisées
-- PHP 8+
-- MySQL
-- MVC maison
-- HTML / CSS / JS
-- Git & GitHub
 
